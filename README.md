@@ -1,10 +1,17 @@
 # MedOS | Industrial Hospital Bed Allocation Platform (OS-PBL)
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Launch%20Platform-06b6d4?style=for-the-badge&logo=cloudflare&logoColor=white)](https://chevy-therapy-configure-mode.trycloudflare.com)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codeHarsh-01/hospital-bed-allocation-platform)
+
 [![SDG 3](https://img.shields.io/badge/SDG%203-Good%20Health%20%26%20Well--Being-emerald.svg)](https://sdgs.un.org/goals/goal3)
 [![Course](https://img.shields.io/badge/Course-Operating%20System%20(CCSEH0303A)-blue.svg)]()
 [![Faculty](https://img.shields.io/badge/Faculty%20Mentor-Rashmi%20Bhardwaj-purple.svg)]()
 [![Team](https://img.shields.io/badge/Group-G--5-cyan.svg)]()
 [![Verification](https://img.shields.io/badge/OS%20Test%20Suite-32%2F32%20PASS-brightgreen.svg)]()
+
+> 🌐 **Interactive Live Web Platform:**  
+> 👉 **[https://chevy-therapy-configure-mode.trycloudflare.com](https://chevy-therapy-configure-mode.trycloudflare.com)**  
+> *(Click above to interact with the real-time OS simulation, run concurrency stress tests, and view the faculty viva defense report directly in any browser)*
 
 > **Project-Based Learning (PBL) Final Engineering Implementation**  
 > Department of Computer Science & Engineering  
